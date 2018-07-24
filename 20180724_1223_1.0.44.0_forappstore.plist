@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.5.115:9528/20180724_1206/Unity-iPhone.ipa</string>
+					<string>http://192.168.5.115:9528/20180724_1223/Unity-iPhone.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>./http://192.168.5.115:9528/20180724_1206/Unity-iPhone.ipa-iPhone%20SE-etc</string>
+					<string>./http://192.168.5.115:9528/20180724_1223/Unity-iPhone.ipa-iPhone%20SE-etc</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,1</string>
@@ -62,7 +62,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>./http://192.168.5.115:9528/20180724_1206/Unity-iPhone.ipa-iPad%20(4th%20generation)-etc</string>
+					<string>./http://192.168.5.115:9528/20180724_1223/Unity-iPhone.ipa-iPad%20(4th%20generation)-etc</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad3,6</string>
@@ -77,7 +77,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>./http://192.168.5.115:9528/20180724_1206/Unity-iPhone.ipa-iPod%20touch-etc</string>
+					<string>./http://192.168.5.115:9528/20180724_1223/Unity-iPhone.ipa-iPod%20touch-etc</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone5,2</string>
@@ -92,7 +92,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>./http://192.168.5.115:9528/20180724_1206/Unity-iPhone.ipa-iPad%202-etc</string>
+					<string>./http://192.168.5.115:9528/20180724_1223/Unity-iPhone.ipa-iPad%202-etc</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad2,3</string>
@@ -108,7 +108,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>./http://192.168.5.115:9528/20180724_1206/Unity-iPhone.ipa-iPhone%206%20Plus-etc</string>
+					<string>./http://192.168.5.115:9528/20180724_1223/Unity-iPhone.ipa-iPhone%206%20Plus-etc</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,2</string>
@@ -125,7 +125,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>./http://192.168.5.115:9528/20180724_1206/Unity-iPhone.ipa-iPad%20Pro%20(12.9-inch)-etc</string>
+					<string>./http://192.168.5.115:9528/20180724_1223/Unity-iPhone.ipa-iPad%20Pro%20(12.9-inch)-etc</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad7,4</string>
